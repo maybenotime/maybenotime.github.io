@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shiping, a graduate student at Beijing University of Posts and Telecommunications (BUPT). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). During university, I had been a research intern at Beijing Advanced Innovation Center for Language Resources (ICALL).
+I am Shiping, a graduate student at Beijing University of Posts and Telecommunications (BUPT). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). During undergraduate, I had been a research intern at Beijing Advanced Innovation Center for Language Resources (ICALL).
 
 Research Intersts
 ======
