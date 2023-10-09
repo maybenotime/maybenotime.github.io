@@ -40,10 +40,19 @@ Experience
   * Worked on Controllable Hard-Constrained Text Generation.
 
 
-Acadamic Service
+Academic Service
 ======
 * Serve as a Secondary Reviewer for **ACL 2023**
 * Serve as a Secondary Reviewer for **EMNLP 2023**
   
+Awards
+======
+* Rank First in "CCL2022 —— The fourth NiuTrans Cup humor computing", 09/2022.
+  * Humor Recognition and Humorous Response Generation in Dialogue Scenarios
+  
+* The Second Prize winner (national level) in "Chinese Undergraduate Computer Design Contest", 09/2021.
+  * "Zizi Idioms" WeChat Mini Program
 
+* The 1st Prize winner (provincial level, top 10%) in "Contemporary Undergraduate MCM (Mathematical Contest in Modeling)", 05/2020.
+  * Risk Analysis of COVID-19
 
