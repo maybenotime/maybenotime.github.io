@@ -16,20 +16,23 @@ I was privileged to have been advised by Prof. Xiaojun Wan during my research in
 
 Research Intersts
 ======
+My research interests mainly concentrate on Natural Language Processing. Here are some directions my previous work covered.
 
+Recently, my research focus has been drawn towards the robustness of large language models, especially on math reasoning tasks. I am also interested in Retrieve-based Language Models and the application of LLMs on various domains
 
 Experience
 ======
 * Peking University, 2022.10 - 2023.08
   * Research Intern.
-  * Worked with Prof. Xiaojun Wan on Sentence Simplification and Hallucination Detection
+  * Worked with Prof. Xiaojun Wan on Sentence Simplification and Hallucination Detection.
 
 * Algorithm R&D Department of Tomorrow Advancing Life, 2022.06 - 2022.10
-  *
+  * Natural Language Processing Engineering Intern.
+  * Worked on Reverse Dictionary, Humor Recognition and Humor Response Generation.
 
 * Beijing Advanced Innovation Center for Language Resources, 2021.11 - 2022.5
   * Research Intern.
-  *
+  * Worked on Controllable Hard-Constrained Text Generation.
 
 
 Acadamic Service
