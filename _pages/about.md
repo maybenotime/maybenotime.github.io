@@ -17,11 +17,11 @@ Research Intersts
 ======
 My research interests mainly concentrate on Natural Language Processing. Here are some directions my previous work covered.
 
-* 
+* Constructing new Benchmarks for low-resource Language and emerging NLP domains through crowdsourcing and LLMs annotator.
 
 * 
 
-* Exploring
+* Investigating the drawbacks of Large Language Models and their causes, like Hallucinations and Reversal Curse, while endeavoring to develop strategies for addressing these challenges.
 
 Recently, my research focus has been drawn towards the robustness of Large Language Models (LLMs), especially on math reasoning tasks. I am also interested in Retrieve-based Language Models and the application of LLMs on various domains.
 
