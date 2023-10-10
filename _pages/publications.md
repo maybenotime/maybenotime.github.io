@@ -15,4 +15,4 @@ Dawei Li, Hengyuan Zhang, Yanran Li, **Shiping Yang**<br />
 **Proceedings of ACL 2023, Toronto, Canada**
 * Fine-grained Contrastive Learning for Definition Generation<br />
 Hengyuan Zhang, Dawei Li, **Shiping Yang**, Yanran Li<br />
-**Proceedings of AACL-IJCNLP 2023 (Oral)**
+**Proceedings of AACL-IJCNLP 2022 (Oral)**
