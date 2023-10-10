@@ -10,7 +10,7 @@ redirect_from:
 
 I am Shiping Yang, a graduate student at Beijing University of Posts and Telecommunications (BUPT). Previously, I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). 
 Before diving into my master's studies, I worked as an intern at Beijing Advanced Innovation Center for Language Resources (ICALL) and Algorithm R&D Department of TAL. <br />
-I was privileged to have been advised by Prof. Xiaojun Wan during my research internship at Peking University. Currently, I am fortunately advised by and maintain a close connection with Prof. Wenhu Chen.
+I was privileged to have been advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) during my research internship at Peking University. Currently, I am fortunately advised by and maintain a close connection with [Prof. Wenhu Chen](https://wenhuchen.github.io/index.html).
 
 
 Research Intersts
@@ -23,7 +23,7 @@ My research interests mainly concentrate on Natural Language Processing. Here ar
 
 * 
 
-Recently, my research focus has been drawn towards the robustness of large language models, especially on math reasoning tasks. I am also interested in Retrieve-based Language Models and the application of LLMs on various domains.
+Recently, my research focus has been drawn towards the robustness of Large Language Models (LLMs), especially on math reasoning tasks. I am also interested in Retrieve-based Language Models and the application of LLMs on various domains.
 
 Experience
 ======
