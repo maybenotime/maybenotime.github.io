@@ -21,7 +21,7 @@ My research interests mainly concentrate on Natural Language Processing. Here ar
 
 * 
 
-* 
+* Exploring
 
 Recently, my research focus has been drawn towards the robustness of Large Language Models (LLMs), especially on math reasoning tasks. I am also interested in Retrieve-based Language Models and the application of LLMs on various domains.
 
