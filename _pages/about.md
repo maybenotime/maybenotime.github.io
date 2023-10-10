@@ -17,9 +17,9 @@ Research Intersts
 ======
 My research interests mainly concentrate on Natural Language Processing. Here are some directions my previous work covered.
 
-* Constructing new Benchmarks for low-resource Language and emerging NLP domains through crowdsourcing and LLMs annotator.
+* Constructing new Benchmarks for low-resource language and emerging NLP domains through crowdsourcing and LLMs annotator.
 
-* 
+* Exploiting additional corpus to conduct Transfer Learning and Self-Supervised Learning, improving the performance and robustness of models on CAL (Computer-Assisted Learning) tasks, like definition generation, reverse dictionary, and sentence simplification.
 
 * Investigating the drawbacks of Large Language Models and their causes, like Hallucinations and Reversal Curse, while endeavoring to develop strategies for addressing these challenges.
 
