@@ -19,7 +19,7 @@ My research interests mainly concentrate on Natural Language Processing. Here ar
 
 * Constructing new Benchmarks for low-resource language and emerging NLP domains through crowdsourcing and LLMs annotator.
 
-* Exploiting Transfer Learning and Self-Supervised Learning to enhance the performance and robustness of models in various NLP tasks.
+* Exploiting Transfer Learning and Self-Supervised Learning to enhance the performance and robustness of models in various NLP tasks, especially in low-resource scenarios.
 
 * Investigating the drawbacks of Large Language Models and their causes, like Hallucinations and Reversal Curse, to develop strategies for addressing these challenges.
 
