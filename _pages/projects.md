@@ -17,6 +17,7 @@ Hard-Constrained Text Generation with Controllable Word Complexity (Thesis) [\[C
 * We introduce hard-constrained text generation and style transfer to the field of international Chinese language education, generating example sentences based on user-entered keywords with controllable word complexity.
 * We employ the T5 model to generate example sentences in a fill-in-the-blank way, ensuring that the generated sentences include all the keywords.
 * We propose an unsupervised method to mine training data automatically from corpus. And we train the model using prompt tuning instead of standard fine-tuning to achieve style transfer at a lower cost.
+
 Reverse Dictionary in Chinese
 ======
 * We explore both classification and generation methods for the reverse dictionary task. Furthermore, we construct a private validation dataset using company data to choose models.
