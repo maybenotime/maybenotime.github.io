@@ -3,6 +3,8 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  # - title: "CV"
-  #   url: /cv/
-    
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: https://maybenotime.github.io/files/ShipingYang_Research_Resume.pdf
