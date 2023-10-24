@@ -4,15 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* A New Benchmark and Reverse Validation Method for Passage-level Hallucination Detection<br />
+* A New Benchmark and Reverse Validation Method for Passage-level Hallucination Detection[\[Paper\]](https://arxiv.org/abs/2310.06498)<br />
 **Shiping Yang**, Renliang Sun, Xiaojun Wan<br />
 **Findings of EMNLP 2023, Singapore**
-* Multi-level Contrastive Learning for Scripts-based Character Understanding<br />
+* Multi-level Contrastive Learning for Scripts-based Character Understanding[\[Paper\]](https://arxiv.org/abs/2310.13231)<br />
 Dawei Li, Hengyuan Zhang, Yanran Li, **Shiping Yang**<br />
 **Proceedings of EMNLP 2023, Singapore**
-* A New Dataset and Empirical Study for Sentence Simplification in Chinese<br />
+* A New Dataset and Empirical Study for Sentence Simplification in Chinese[\[Paper\]](https://aclanthology.org/2023.acl-long.462)<br />
 **Shiping Yang**, Renliang Sun, Xiaojun Wan<br />
 **Proceedings of ACL 2023, Toronto, Canada**
-* Fine-grained Contrastive Learning for Definition Generation<br />
+* Fine-grained Contrastive Learning for Definition Generation[\[Paper\]](https://aclanthology.org/2022.aacl-main.73)<br />
 Hengyuan Zhang, Dawei Li, **Shiping Yang**, Yanran Li<br />
 **Proceedings of AACL-IJCNLP 2022 (Oral)**
