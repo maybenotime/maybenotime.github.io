@@ -45,9 +45,10 @@ Experience
 
 Academic Service
 ======
-* Serve as a Secondary Reviewer for **ACL 2023**
+* Serve as a Reviewer for **ACL ARR**
 * Serve as a Secondary Reviewer for **EMNLP 2023**
-  
+* Serve as a Secondary Reviewer for **ACL 2023**
+
 Awards
 ======
 * Rank First in "CCL2022 —— The fourth NiuTrans Cup humor computing", 09/2022.
