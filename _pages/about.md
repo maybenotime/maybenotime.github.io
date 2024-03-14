@@ -14,7 +14,7 @@ I was privileged to have been advised by [Prof. Xiaojun Wan](https://wanxiaojun.
 
 
 
-Research Intersts
+Research Interests
 ======
 My research interests mainly concentrate on Natural Language Processing. Here are some directions my previous work covered.
 
