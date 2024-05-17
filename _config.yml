@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Shiping Yang"
-  avatar           : "emnlp23.jpg"
+  avatar           : "me.jpg"
   bio              : "Incoming Ph.D. student at SFU"
   location         : "Beijing, China"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.cz/citations?hl=zh-CN&user=gV_A5UEAAAAJ"
-  email            : "yangshiping@bupt.edu.cn"
+  email            : "yangshipingnlp@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
