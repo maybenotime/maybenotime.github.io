@@ -36,9 +36,9 @@ Experience
   * Natural Language Processing Engineering Intern.
   * Worked on Reverse Dictionary, Humor Recognition and Humor Response Generation.
 
-* Beijing Advanced Innovation Center for Language Resources, 2021.11 - 2022.5
+<!-- * Beijing Advanced Innovation Center for Language Resources, 2021.11 - 2022.5
   * Research Intern.
-  * Worked on Controllable Hard-Constrained Text Generation.
+  * Worked on Controllable Hard-Constrained Text Generation. -->
 
 
 Academic Service
@@ -47,7 +47,7 @@ Academic Service
 * Serve as a Secondary Reviewer for **EMNLP 2023**
 * Serve as a Secondary Reviewer for **ACL 2023**
 
-Awards
+<!-- Awards
 ======
 * Rank First in "CCL2022 —— The fourth NiuTrans Cup humor computing", 09/2022.
   * Humor Recognition and Humorous Response Generation in Dialogue Scenarios
@@ -56,5 +56,5 @@ Awards
   * "Zizi Idioms" WeChat Mini Program
 
 * The 1st Prize winner (provincial level, top 10%) in "Contemporary Undergraduate MCM (Mathematical Contest in Modeling)", 05/2020.
-  * Risk Analysis of COVID-19
+  * Risk Analysis of COVID-19 -->
 
