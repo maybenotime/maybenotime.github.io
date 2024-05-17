@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am an incoming Ph.D. student in [GrUVi Lab](https://gruvi.cs.sfu.ca/) & [3DLG-HCVC](https://3dlg-hcvc.github.io/) at Simon Fraser University (SFU), supervised by [Prof. Angel Xuan Chang](https://angelxuanchang.github.io/). I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). 
-Previously, I worked as an intern at Beijing Advanced Innovation Center for Language Resources (ICALL) and Algorithm R&D Department of TAL. <br />
-I was privileged to have been advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) during my research internship at Peking University.
+Previously, I worked as an intern at Peking University and Algorithm R&D Department of TAL.
+And I was privileged to have been advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) during my research internship at Peking University.
 
 
 
