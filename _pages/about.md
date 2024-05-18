@@ -22,9 +22,9 @@ My research interests mainly concentrate on Natural Language Processing. Here ar
 
 * Exploiting Transfer Learning and Self-Supervised Learning to enhance the performance and robustness of models in various NLP tasks, especially in low-resource scenarios.
 
-* Investigating the drawbacks of large language models, such as Hallucination and the Reversal Curse, to develop strategies for building trustworthy and robust LLMs.
+* Investigating the drawbacks of large language models, such as Hallucinations and the Reversal Curse, to develop strategies for building trustworthy and responsible LLMs.
 
-Recently, my research focus has been drawn towards the robustness of Large Language Models (LLMs), especially on math reasoning tasks. I am also interested in Retrieve-based Language Models and the application of LLMs on various domains.
+Recently, my research focus has been drawn towards the Hallucination of Large Language Models (LLMs), especially in multilingual scenarios. I am also interested in Multimodal Language Models and the application of LLMs on various domains.
 
 Experience
 ======
