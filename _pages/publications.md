@@ -17,7 +17,7 @@ Dawei Li, Hengyuan Zhang, Yanran Li, **Shiping Yang**<br />
 Hengyuan Zhang, Dawei Li, **Shiping Yang**, Yanran Li<br />
 **Proceedings of AACL-IJCNLP 2022 (Oral)**
 
-# Preprint
+# Preprints
 * Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data
 [\[Paper\]](https://arxiv.org/abs/2503.05587)<br />
 **Shiping Yang**, Jie Wu, Wenbiao Ding, Ning Wu, Shining Liang, Ming Gong, Hengyuan Zhang, Dongmei Zhang<br />
