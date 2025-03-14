@@ -16,3 +16,14 @@ Dawei Li, Hengyuan Zhang, Yanran Li, **Shiping Yang**<br />
 * Fine-grained Contrastive Learning for Definition Generation[\[Paper\]](https://aclanthology.org/2022.aacl-main.73)<br />
 Hengyuan Zhang, Dawei Li, **Shiping Yang**, Yanran Li<br />
 **Proceedings of AACL-IJCNLP 2022 (Oral)**
+
+# Preprint
+* Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data
+[\[Paper\]](https://arxiv.org/abs/2503.05587)<br />
+**Shiping Yang**, Jie Wu, Wenbiao Ding, Ning Wu, Shining Liang, Ming Gong, Hengyuan Zhang, Dongmei Zhang<br />
+* MuDAF: Long-Context Multi-Document Attention Focusing through Contrastive Learning on Attention Heads
+[\[Paper\]](https://arxiv.org/abs/2502.13963)<br />
+Weihao Liu, Ning Wu, **Shiping Yang**, Wenbiao Ding, Shining Liang, Ming Gong, Dongmei Zhang<br />
+* Fostering Natural Conversation in Large Language Models with NICO: a Natural Interactive COnversation dataset
+[\[Paper\]](https://arxiv.org/abs/2408.09330)<br />
+Renliang Sun, Mengyuan Liu, **Shiping Yang**, Rui Wang, Junqing He, Jiaxing Zhang<br />
