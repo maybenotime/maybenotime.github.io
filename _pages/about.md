@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in [GrUVi Lab](https://gruvi.cs.sfu.ca/) & [3DLG-HCVC](https://3dlg-hcvc.github.io/) at Simon Fraser University (SFU), supervised by [Prof. Angel Xuan Chang](https://angelxuanchang.github.io/). I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). 
+I am a first year Ph.D. student in [GrUVi Lab](https://gruvi.cs.sfu.ca/) & [3DLG-HCVC](https://3dlg-hcvc.github.io/) at Simon Fraser University (SFU), supervised by [Prof. Angel Xuan Chang](https://angelxuanchang.github.io/). I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). 
 Previously, I worked as an intern at Peking University and Algorithm R&D Department of TAL.
 And I was privileged to have been advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) during my research internship at Peking University.
 
@@ -47,7 +47,7 @@ Experience
 
 Academic Service
 ======
-* Serve as a Reviewer for **ACL 2024**, **NAACL 2025** and **ICLR 2025**
+* Serve as a Reviewer for **ACL 2024**, **EMNLP 2025**, **NeurIPS 2025**, **ICLR 2025** and **ICLR 2026**
 * Serve as a Regular Reviewer for **ACL ARR**
 * Serve as a Subreviewer for **SIGIR 2025**
 * Serve as a Secondary Reviewer for **ACL 2023**, **EMNLP 2023**
