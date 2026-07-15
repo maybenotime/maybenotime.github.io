@@ -7,14 +7,14 @@ author_profile: true
 * Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator
 [\[Paper\]](https://arxiv.org/abs/2607.07993)<br />
 **Shiping Yang**, Shining Liang, Weihao Liu, Wenbiao Ding, Linjun Shou, Lu Cheng, Angel X. Chang<br />
-****COLM 2026, San Francisco, United States**
+**COLM 2026, San Francisco, United States**
 * Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation
 [\[Paper\]](https://arxiv.org/abs/2510.10925)<br />
 Hengyuan Zhang\*, **Shiping Yang**\*, Xiao Liang, ..., Ruobing Xie, Angel X. Chang, Ngai Wong<br />
 **Proceedings of ACL 2026, San Diego, California, United States**
-* Quantifying and Improving the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data
+* Quantifying and Improving the Robustness of Retrieval-Augmented Language Models Against Spurious Features <br /> in Grounding Data
 [\[Paper\]](https://arxiv.org/abs/2503.05587)<br />
-**Shiping Yang**, Jie Wu, Wenbiao Ding, Ning Wu, Shining Liang, Ming Gong, Hengyuan Zhang, Angel X. Chang, Dongmei Zhang<br />
+**Shiping Yang**, Jie Wu, Wenbiao Ding, ... , Hengyuan Zhang, Angel X. Chang, Dongmei Zhang<br />
 **Proceedings of ACL 2026, San Diego, California, United States**
 * A New Benchmark and Reverse Validation Method for Passage-level Hallucination Detection[\[Paper\]](https://arxiv.org/abs/2310.06498)<br />
 **Shiping Yang**, Renliang Sun, Xiaojun Wan<br />
