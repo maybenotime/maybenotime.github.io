@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in [GrUVi Lab](https://gruvi.cs.sfu.ca/) & [3DLG-HCVC](https://3dlg-hcvc.github.io/) at Simon Fraser University (SFU), supervised by [Prof. Angel Xuan Chang](https://angelxuanchang.github.io/). I obtained my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU). 
-Previously, I worked as an intern at Peking University and Algorithm R&D Department of TAL.
-And I was privileged to have been advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) during my research internship at Peking University.
+I am a first-year Ph.D. student in the [3DLG](https://3dlg-hcvc.github.io/) and [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University (SFU), supervised by [Prof. Angel Xuan Chang](https://angelxuanchang.github.io/). I received my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU) and my master's degree from Beijing University of Posts and Telecommunications (BUPT).
+Previously, I worked as an intern at RBC Borealis, Microsoft AI, and the Algorithm R&D Department of TAL. I was also fortunate to be advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) during my time as visiting student at Peking University.
 
 
 
@@ -28,29 +27,33 @@ Recently, my research focus has been drawn towards the Hallucination of Large La
 
 Experience
 ======
-* Microsoft AI, 2024.07 - Present
-  * Research Intern.
-  * Worked with Dr. Jie Wu on Robustness of RAG and Long COT Reasoning.
+* RBC Borealis, 2026.01 - 2026.08
+  * Research Intern, Mentors: Dr. Layla El Asri and Dr. Hossein Hajimirsadeghi 
+  * Conducted research on On-policy Distillation.
+
+* Microsoft AI, 2024.07 - 2025.12
+  * Research Intern, Mentors: Dr. Jie Wu and Dr. Shining Liang
+  * Conducted research on RAG Robustness and Self-Play Reinforcement Learning.
 
 * Peking University, 2022.10 - 2023.08
-  * Research Intern.
-  * Worked with Prof. Xiaojun Wan on Sentence Simplification and Hallucination Detection.
+  * Visiting Student, Advisor: Prof. Xiaojun Wan
+  * Conducted research on Text Simplification and Hallucination Detection.
 
 * Algorithm R&D Department of Tomorrow Advancing Life, 2022.06 - 2022.10
   * Natural Language Processing Engineering Intern.
-  * Worked on Reverse Dictionary, Humor Recognition and Humor Response Generation.
+  * Worked on Reverse Dictionary and Humor Computing.
 
-* Beijing Advanced Innovation Center for Language Resources, 2021.11 - 2022.5
+<!-- * Beijing Advanced Innovation Center for Language Resources, 2021.11 - 2022.5
   * Research Intern.
-  * Worked on Controllable Hard-Constrained Text Generation.
+  * Worked on Controllable Hard-Constrained Text Generation. -->
 
 
 Academic Service
 ======
-* Serve as a Reviewer for **ACL 2024**, **EMNLP 2025**, **NeurIPS 2025**, **ICLR 2025** and **ICLR 2026**
-* Serve as a Regular Reviewer for **ACL ARR**
+* Serve as a Reviewer for **ACL 2024/2026**, **EMNLP 2025-2026**, **NeurIPS 2025-2026**, **ICLR 2025-2026** and **COLM 2026**
 * Serve as a Subreviewer for **SIGIR 2025**
 * Serve as a Secondary Reviewer for **ACL 2023**, **EMNLP 2023**
+* Serve as Teaching Assistant for **CMPT 839 Advanced NLP**, Spring 2026
 
 Awards
 ======
