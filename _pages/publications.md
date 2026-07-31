@@ -11,8 +11,8 @@ author_profile: true
 * Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation
 [\[Paper\]](https://arxiv.org/abs/2510.10925)<br />
 Hengyuan Zhang\*, **Shiping Yang**\*, Xiao Liang, ..., Ruobing Xie, Angel X. Chang, Ngai Wong<br />
-**Proceedings of ACL 2026, San Diego, California, United States**
-* Quantifying and Improving the Robustness of Retrieval-Augmented Language Models Against Spurious Features <br /> in Grounding Data
+**Proceedings of ACL 2026, San Diego (Oral), California, United States**
+* Quantifying and Improving the Robustness of Retrieval-Augmented Language Models Against<br /> Spurious Features in Grounding Data
 [\[Paper\]](https://arxiv.org/abs/2503.05587)<br />
 **Shiping Yang**, Jie Wu, Wenbiao Ding, ... , Hengyuan Zhang, Angel X. Chang, Dongmei Zhang<br />
 **Proceedings of ACL 2026, San Diego, California, United States**
@@ -29,7 +29,19 @@ Dawei Li, Hengyuan Zhang, Yanran Li, **Shiping Yang**<br />
 Hengyuan Zhang, Dawei Li, **Shiping Yang**, Yanran Li<br />
 **Proceedings of AACL-IJCNLP 2022 (Oral)**
 
-# Preprints。
+# Under Review
+* Rethinking the Capacity Gap in On-Policy Distillation for Large Language Models
+[\[Paper\]]()<br />
+**Shiping Yang**, Chuanqi Tang, Hossein Hajimirsadeghi, Layla El Asri, Mohammad Amin Shabani, Angel X Chang<br />
+* RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities
+[\[Paper\]](https://arxiv.org/abs/2607.04729)<br />
+Tarek Elsayed, **Shiping Yang**, Eunsong Koh, ... , Angel X Chang, Nick Sumner, Steven Y Ko<br />
+* Modularized Reinforcement Learning on LLMs: From MDP Creation to Exploration and Learning
+[\[Survey\]](https://arxiv.org/abs/2606.21943)<br />
+Zhao Yang, et al.<br />
+
+
+# Preprints
 * VISOR: VIsual Spatial Object Reasoning for Language-driven Object Navigation
 [\[Paper\]](https://arxiv.org/abs/2602.07555)<br />
 Francesco Taioli, **Shiping Yang**, Sonia Raychaudhur, Marco Cristan, Unnat Jain, Angel X. Chang<br />

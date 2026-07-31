@@ -17,13 +17,13 @@ Research Interests
 ======
 My research interests mainly concentrate on Natural Language Processing. Here are some directions my previous work covered.
 
-* Constructing new Benchmarks for low-resource language and emerging NLP domains through crowdsourcing and LLMs annotator.
+* Evaluating and improving agents' feedback capabilities to drive the iterative loop of recursive self-improvement.
 
-* Exploiting Transfer Learning and Self-Supervised Learning to enhance the performance and robustness of models in various NLP tasks, especially in low-resource scenarios.
+* Building trustworthy and reliable LLM systems that hallucinate less and remain robust in RAG settings.
 
-* Investigating the drawbacks of large language models, such as Hallucinations and the Reversal Curse, to develop strategies for building trustworthy and responsible LLMs.
+* Exploring efficient distillation methods that effectively transfer capabilities from strong models to small ones.
 
-Recently, my research focus has been drawn towards the Hallucination of Large Language Models (LLMs), especially in multilingual scenarios. I am also interested in Multimodal Language Models and the application of LLMs on various domains.
+Recently, my research has centered on Recursive Self-Improvement (RSI).
 
 Experience
 ======
