@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [3DLG](https://3dlg-hcvc.github.io/) and [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University (SFU), supervised by [Prof. Angel Xuan Chang](https://angelxuanchang.github.io/). I received my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU) and my master's degree from Beijing University of Posts and Telecommunications (BUPT).
+I am a second-year Ph.D. student in the [3DLG](https://3dlg-hcvc.github.io/) and [GrUVi Lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University (SFU), supervised by [Prof. Angel Xuan Chang](https://angelxuanchang.github.io/). I received my bachelor’s degree in Computer Science from Beijing Language and Cultural University (BLCU) and my master's degree from Beijing University of Posts and Telecommunications (BUPT).
 Previously, I worked as an intern at RBC Borealis, Microsoft AI, and the Algorithm R&D Department of TAL. I was also fortunate to be advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io/) during my time as visiting student at Peking University.
 
 
@@ -27,7 +27,7 @@ Recently, my research has centered on Recursive Self-Improvement (RSI).
 
 Experience
 ======
-* RBC Borealis, 2026.01 - 2026.08
+* RBC Borealis, 2026.01 - 2026.09
   * Research Intern, Mentors: Dr. Layla El Asri and Dr. Hossein Hajimirsadeghi 
   * Conducted research on On-policy Distillation.
 

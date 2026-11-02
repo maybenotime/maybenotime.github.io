@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities
+[\[Paper\]](https://arxiv.org/abs/2607.04729)<br />
+Tarek Elsayed, **Shiping Yang**, Eunsong Koh, ... , Angel X Chang, Nick Sumner, Steven Y Ko<br />
+**NeurIPS ED 2026, Sydney, Australia**
 * Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator
 [\[Paper\]](https://arxiv.org/abs/2607.07993)<br />
 **Shiping Yang**, Shining Liang, Weihao Liu, Wenbiao Ding, Linjun Shou, Lu Cheng, Angel X. Chang<br />
@@ -30,12 +34,9 @@ Hengyuan Zhang, Dawei Li, **Shiping Yang**, Yanran Li<br />
 **Proceedings of AACL-IJCNLP 2022 (Oral)**
 
 # Under Review
-* Rethinking the Capacity Gap in On-Policy Distillation for Large Language Models
-[\[Paper\]]()<br />
+* Distilling the Shape of Uncertainty: What On-Policy Distillation Learns and How to Predict It
+[\[Project Page\]](https://maybenotime.github.io/opd-esc/)<br />
 **Shiping Yang**, Chuanqi Tang, Hossein Hajimirsadeghi, Layla El Asri, Mohammad Amin Shabani, Angel X Chang<br />
-* RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities
-[\[Paper\]](https://arxiv.org/abs/2607.04729)<br />
-Tarek Elsayed, **Shiping Yang**, Eunsong Koh, ... , Angel X Chang, Nick Sumner, Steven Y Ko<br />
 * Modularized Reinforcement Learning on LLMs: From MDP Creation to Exploration and Learning
 [\[Survey\]](https://arxiv.org/abs/2606.21943)<br />
 Zhao Yang, et al.<br />
