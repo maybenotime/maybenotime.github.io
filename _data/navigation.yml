@@ -6,8 +6,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  # - title: "CV"
-  #   url: https://maybenotime.github.io/files/ShipingYang_Research_Resume.pdf
-  
+  - title: "Resume"
+    url: /files/Research_Resume_ShipingYang.pdf
+
   - title: "Misc"
     url: /misc/
